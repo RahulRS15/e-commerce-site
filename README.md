@@ -17,7 +17,7 @@ BharatGo is a clone of an e-commerce site that utilizes the Fake API from Platzi
 
 ## Live Demo
 
-Check out the live version of the project: [BharatGo](https://shopi-bharatgo.vercel.app/)
+Check out the live version of the project:- [BharatGo](https://shopi-bharatgo.vercel.app/)
 
 ## **How to Get Started**
 
@@ -35,5 +35,5 @@ Check out the live version of the project: [BharatGo](https://shopi-bharatgo.ver
     ```
 4. **Start the development server**:
    ```bash
-   npm start
+   npm run dev
    ```
